@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./sites/all/themes/MWLtheme19/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>International Islamic Conference for Dialogue | Muslim World League</title>
+  <link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_XyPnohOSUaox3vOgu0scXOMpvxTYN-iOUTRhLe94gM4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css__9NVexcGNK-SwYbzqesiVQVS1i2-OMazJE5g4rO9qUY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_XsFqxeysvgJP1MzULnYScUz5TnnVKU54D6F1UvMOFWo.css" media="all" />
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="./sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_obFUyTbqtcoGQtszVI46l1_oD927PzlDtlr_ilpYBqE.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_7qeIP5x1pp65EYN9l3ZhemvVP_ivW4oh0RbOXRf7TX4.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_2Rmso7qqVUdliODJ55E4FGvySnepdit7rocIC-z1P8g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"MWLtheme19", "theme_token":"lr4rVBRvdk8wTxvXOQZJU1HkxPSBnJ36plIt2d68uFE", "js":{"http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.10.2.min.js":1, "0":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fjs\u002Fviews_slideshow.js":1, "sites\u002Fall\u002Flibraries\u002Fjquery.cycle\u002Fjquery.cycle.all.js":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fcontrib\u002Fviews_slideshow_cycle\u002Fjs\u002Fviews_slideshow_cycle.js":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fscript.js":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fscript.responsive.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fviews_slideshow.css":1, "modules\u002Faggregator\u002Faggregator.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fcontrib\u002Fviews_slideshow_cycle\u002Fviews_slideshow_cycle.css":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fstyle.css":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fstyle.responsive.css":1}}, "viewsSlideshow":{"news_slider-block_1":{"methods":{"goToSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "nextSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "pause":[ "viewsSlideshowControls", "viewsSlideshowCycle" ], "play":[ "viewsSlideshowControls", "viewsSlideshowCycle" ], "previousSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "transitionBegin":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter" ], "transitionEnd":[  ]}, "paused":0}}, "viewsSlideshowCycle":{"#views_slideshow_cycle_main_news_slider-block_1":{"num_divs":5, "id_prefix":"#views_slideshow_cycle_main_", "div_prefix":"#views_slideshow_cycle_div_", "vss_id":"news_slider-block_1", "effect":"fade", "transition_advanced":0, "timeout":5000, "speed":700, "delay":0, "sync":1, "random":0, "pause":1, "pause_on_click":0, "action_advanced":0, "start_paused":null, "remember_slide":0, "remember_slide_days":1, "pause_in_middle":0, "pause_when_hidden":0, "pause_when_hidden_type":"full", "amount_allowed_visible":"", "nowrap":0, "fixed_height":1, "items_per_slide":1, "wait_for_image_load":1, "wait_for_image_load_timeout":3000, "cleartype":true, "cleartypenobg":false, "advanced_options":"{}"}}});
+//--><!]]>
+</script>
+  <!-- Created by Artisteer v4.0.0.58876 -->
+
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]><link rel="stylesheet" href="/sites/all/themes/MWLtheme19/style.ie7.css" media="screen" /><![endif]-->
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-islamic-dialogue-conference-video-list" >
+    
+<div id="art-main">
+<header class="art-header clearfix">
+
+    <div class="art-shapes">
+<h1 class="art-headline" data-left="88.25%"><a href="index.html" title = "Muslim World League">Muslim World League</a></h1>
+<h2 class="art-slogan" data-left="81.56%">Serving Islam and Muslims</h2>
+
+
+            </div>
+
+                
+                    
+</header>
+<nav class="art-nav clearfix">
+     
+    <ul class="art-hmenu">
+<li class="first collapsed"><a href="./index.html" title="">Home</a></li>
+<li class="expanded">
+<a href="/taxonomy/term/19" title="all about Muslim World League">About MWL</a><ul>
+<li class="first leaf"><a href="./node/765.html" title="Headquarters">Headquarters</a></li>
+<li class="leaf"><a href="/WML_Institutions" title="Institutions under the umbrella of the Muslim World League">MWL's Institutions</a></li>
+<li class="leaf"><a href="http://en.themwl.org/content/mwl-web-sites-0" title="Web sites belong to MWL ">MWL web sites</a></li>
+<li class="leaf"><a href="/MWL-external-offices" title="Offices Abroad">External Offices</a></li>
+<li class="leaf"><a href="/taxonomy/term/39" title="External Centers MWL centers around world">External Centers</a></li>
+<li class="last leaf"><a href="./node/839.html" title="Educational Institutes of Muslim World League">Educational Institutes</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="/taxonomy/term/20" title="GENEVA Dialogue Conference">Conferences</a></li>
+<li class="leaf"><a href="/taxonomy/term/2" title="Press Release">Press Release</a></li>
+<li class="last leaf"><a href="/taxonomy/term/31" title="MWL News">MWL News</a></li>
+</ul>
+</nav>
+<div class="art-sheet clearfix">
+            <div class="art-layout-wrapper clearfix">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1 clearfix">  <div class="region region-vnavigation-left">
+    <div class="block block-menu" id="block-menu-menu-content-cat"><div class="art-vmenublock clearfix">
+        <div class="art-vmenublockheader"><h3 class="t">Site Contents</h3>
+</div>
+        <div class="art-vmenublockcontent"><ul class="art-vmenu">
+<li class="first leaf"><a href="http://www.themwl.org/Ipadindex.html" title="Main Home page www.themwl.org">Home</a></li>
+<li class="leaf"><a href="/taxonomy/term/19" title="About MWL">About MWL</a></li>
+<li class="leaf"><a href="/taxonomy/term/28" title="MWL's Institutions">MWL's Institutions</a></li>
+<li class="leaf"><a href="/taxonomy/term/36" title="External Offices">External Offices</a></li>
+<li class="leaf"><a href="/taxonomy/term/39" title="External Centers">External Centers</a></li>
+<li class="expanded active-trail active">
+<a href="/taxonomy/term/20" title="conferences on dialogue" class="active-trail active">Dialogue Conferences</a><ul class=" active">
+<li class="first leaf"><a href="/World-dialogue-conference-video-list" title="Video of World Dialogue Conference In Spain">Spain Dialogue Video</a></li>
+<li class="last leaf active-trail active"><a href="/Islamic-dialogue-conference-video-list" title="International Islamic dialogue conference video list" class="active-trail active">Makkah Dialogue Video</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="/taxonomy/term/4" title="Department of Muslim Minorities">Department of Muslim Minorities</a></li>
+<li class="leaf"><a href="/taxonomy/term/7" title="Selected Articles">Articles </a></li>
+<li class="last leaf"><a href="/contact" title="Phone number, emails and address">Contact us</a></li>
+</ul>
+
+</div>
+</div></div>
+<div class="block block-block" id="block-block-3"><div class="art-vmenublock clearfix">
+        <div class="art-vmenublockheader"><h3 class="t">Invitation to Researchers</h3>
+</div>
+        <div class="art-vmenublockcontent"><p></p><a href="http://en.themwl.org/content/invitation-researchers-islamic-studies" target="_self"><img alt="Invitation to Researchers in Islamic studies" height="134" src="http://en.themwl.org/sites/default/files/images/InvitationEN.gif" width="241" /></a>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-8"><div class="art-vmenublock clearfix">
+        
+        <div class="art-vmenublockcontent"><div>
+<table align="left" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://en.themwl.org" target="_blank"><img src="http://www.themwl.org/images/english-icon.png" /></a></td>
+<td><a href="https://plus.google.com" target="_blank"><img src="http://www.themwl.org/images/google-plus.jpg" /></a></td>
+<td><a href="https://twitter.com/MuslimWorldLeag" target="_blank"><img src="http://www.themwl.org/images/twittericon.jpg" /></a></td>
+<td><a href="https://www.facebook.com/pages/Muslim-World-League/366011250178842" target="_blank"><img src="http://www.themwl.org/images/facebook_icon.jpg" /></a></td>
+<td><a href="http://www.youtube.com/mwl50years" target="_blank"><img src="http://www.themwl.org/images/youtube_icon.jpg" /></a></td>
+<td><a href="http://www.themwl.org/home.aspx" target="_blank"><img src="http://www.themwl.org/images/Saudi-Arabia-Flag.png" /></a></td>
+</tr></tbody></table></div>
+
+</div>
+</div></div>
+  </div>
+  <div class="region region-sidebar-left">
+    <div class="block block-search" id="block-search-form">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><form class="art-search" action="/Islamic-dialogue-conference-video-list?mag=1" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="" for="edit-search-block-form--2"> Search  </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="art-search-button form-submit art-button" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-J9ttqa_QJ7ghSM8ThaXUWJIUPIZZFLqPMZaaXh3uu14" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div></div>
+<div class="block block-menu" id="block-menu-menu-mwl-sites">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  MWL Web Sites</h3>
+</div>        <div class="art-blockcontent"><ul class="menu"><li class="first leaf"><a href="http://themwl.org/home.aspx" title="Muslim World League Main Arabic Web site">MWL Arabic Site</a></li>
+<li class="leaf"><a href="http://www.muslimworldleague.com/" title=" web site of Makkah conference in its 13th year">Makkah Conferences</a></li>
+<li class="leaf"><a href="http://www.world-dialogue.org/" title="all conferences held in dialogue">Dialogue Conferences</a></li>
+<li class="collapsed"><a href="http://ar.themwl.org/" title="">Islamic Fiqh Council</a></li>
+<li class="leaf"><a href="http://www.themwl.org/conf" title="Web site for Muslim World Conference - Issues and Solutions">Muslim World Conference</a></li>
+<li class="leaf"><a href="http://www.itimams.net" title="Institute for training Imams Spiritual Leaders and Preachers of Muslim World League">Institute for Training Preachers</a></li>
+<li class="last leaf"><a href="http://50years.themwl.org" title="Muslim World league in last 50 years - achievements and Future  ">MWL in 50 Years</a></li>
+</ul></div>
+</div></div>
+<div class="block block-block" id="block-block-5">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><p><a href="http://en.themwl.org/WML_Institutions" target="_self"><img alt="MWL sub-oganizations" height="53" src="http://www.themwl.org/images/UserControls/Right/Bodies_Ani_En.gif" width="209" /></a></p></div>
+</div></div>
+  </div>
+</div>                        <div class="art-layout-cell art-content clearfix"><div id="banner3">  <div class="region region-banner3">
+    <div class="block block-views" id="block-views-news-slider-block-1">
+<h2>International Islamic Conference for Dialogue</h2>
+<div class="content">
+<div class="view view-news-slider view-id-news_slider view-display-id-block_1 view-dom-id-3b6253df8a7544e6cbb3712cf8b09985">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_news_slider-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_news_slider-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_news_slider-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <span class="views-field views-field-image-attach-images">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="./node/87.html">Dialogue in the HOLY Qur&#039;an – Principles and Bases</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_news_slider-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+    
+  <span class="views-field views-field-image-attach-images">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="./node/80.html">Dialogue with the Followers of Earthy Philosophies</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_news_slider-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+    
+  <span class="views-field views-field-image-attach-images">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="./node/102.html">International Islamic Conference for Dialogue Guide - schedule</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_news_slider-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even">
+    
+  <span class="views-field views-field-image-attach-images">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="./node/88.html">Dialogue in the Holy Qur&#039;an and Sunnah</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_news_slider-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-4 views-row-odd views-row-last">
+    
+  <span class="views-field views-field-image-attach-images">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="./node/85.html">Dialogue: Methodology and Controlling Factors</a></span>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+  </div>
+</div>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2 class="element-invisible art-postheader">You are here</h2><div class="breadcrumb art-postcontent"><a href="./index.html">Home</a></div></div>
+                                
+                                
+</article>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2>International Islamic Conference for Dialogue</h2>    <div class="region region-content">
+      <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="view view-islamic-dialogue view-id-islamic_dialogue view-display-id-page_1 view-dom-id-3d0187b4d3b29d2f2f7ba911083e9580">
+        
+  
+  
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/Islamic-dialogue-conference-video-list?page=1&amp;mag=1&amp;mag_q=Islamic-dialogue-conference-video-list">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/Islamic-dialogue-conference-video-list?page=1&amp;mag=1&amp;mag_q=Islamic-dialogue-conference-video-list">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/Islamic-dialogue-conference-video-list?page=1&amp;mag=1&amp;mag_q=Islamic-dialogue-conference-video-list">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div></div>
+</div>
+  </div>
+  </div>
+</div>
+                                
+                                
+</article>
+
+</div>
+                    </div>
+                </div>
+            </div><footer class="art-footer clearfix">  <div class="region region-footer-message">
+    <div class="block block-block" id="block-block-14">
+
+                <p></p>
+<h4><strong><a href="http://en.themwl.org/">Home</a> | <a href="http://en.themwl.org/taxonomy/term/19">About MWL</a> | <a href="http://en.themwl.org/category/conferences/mwl-news">News</a> | <a href="http://en.themwl.org/taxonomy/term/22">Conferences</a> | <a href="http://en.themwl.org/World-dialogue-conference-video-list">Video</a> | <a href="http://en.themwl.org/International_Islamic_Conference_for_Dialogue_Gallery">Photo Gallery</a> | <a href="http://en.themwl.org/taxonomy/term/1">Publications</a> | <a href="http://en.themwl.org/category/mwl-glance/resolutions-5rth-session">Fatwa</a> | <a href="http://en.themwl.org/WML_Institutions">MWL Institutions</a> | <a href="http://en.themwl.org/MWL-external-offices">External Offices</a></strong></h4>
+<h4>Muslim World League © 2004. All Rights Reserved. <a href="http://www.themwl.org">www.themwl.org</a> | Contact us: <a href="mailto:info@themwl.org">info@themwl.org</a> | <a href="http://en.themwl.org/content/site-policy">Site Policy</a></h4>
+</div>
+  </div>
+</footer>
+
+    </div>
+</div>
+
+
+  </body>
+</html>

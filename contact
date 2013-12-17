@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./sites/all/themes/MWLtheme19/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Contact | Muslim World League</title>
+  <link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_sHhxKKzAeP_vSI28iv869DFBkEqifHWo1JyskqyELf0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css__9NVexcGNK-SwYbzqesiVQVS1i2-OMazJE5g4rO9qUY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_XsFqxeysvgJP1MzULnYScUz5TnnVKU54D6F1UvMOFWo.css" media="all" />
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="./sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_mMuSdRh5NeaBYvACFdfxYZFykbM62b1Ir0OkbP8m74A.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_2Rmso7qqVUdliODJ55E4FGvySnepdit7rocIC-z1P8g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"MWLtheme19", "theme_token":"v32Dv2jtWmcRk9Qz62sH6V6IDqh3GIs81uwy8u8moMw", "js":{"http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.10.2.min.js":1, "0":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fmodules\u002Fjquery_update\u002Freplace\u002Fui\u002Fexternal\u002Fjquery.cookie.js":1, "misc\u002Ftextarea.js":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fscript.js":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fscript.responsive.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Faggregator\u002Faggregator.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fstyle.css":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fstyle.responsive.css":1}}});
+//--><!]]>
+</script>
+  <!-- Created by Artisteer v4.0.0.58876 -->
+
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]><link rel="stylesheet" href="/sites/all/themes/MWLtheme19/style.ie7.css" media="screen" /><![endif]-->
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-contact" >
+    
+<div id="art-main">
+<header class="art-header clearfix">
+
+    <div class="art-shapes">
+<h1 class="art-headline" data-left="88.25%"><a href="index.html" title = "Muslim World League">Muslim World League</a></h1>
+<h2 class="art-slogan" data-left="81.56%">Serving Islam and Muslims</h2>
+
+
+            </div>
+
+                
+                    
+</header>
+<nav class="art-nav clearfix">
+     
+    <ul class="art-hmenu">
+<li class="first collapsed"><a href="./index.html" title="">Home</a></li>
+<li class="expanded">
+<a href="/taxonomy/term/19" title="all about Muslim World League">About MWL</a><ul>
+<li class="first leaf"><a href="./node/765.html" title="Headquarters">Headquarters</a></li>
+<li class="leaf"><a href="/WML_Institutions" title="Institutions under the umbrella of the Muslim World League">MWL's Institutions</a></li>
+<li class="leaf"><a href="http://en.themwl.org/content/mwl-web-sites-0" title="Web sites belong to MWL ">MWL web sites</a></li>
+<li class="leaf"><a href="/MWL-external-offices" title="Offices Abroad">External Offices</a></li>
+<li class="leaf"><a href="/taxonomy/term/39" title="External Centers MWL centers around world">External Centers</a></li>
+<li class="last leaf"><a href="./node/839.html" title="Educational Institutes of Muslim World League">Educational Institutes</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="/taxonomy/term/20" title="GENEVA Dialogue Conference">Conferences</a></li>
+<li class="leaf"><a href="/taxonomy/term/2" title="Press Release">Press Release</a></li>
+<li class="last leaf"><a href="/taxonomy/term/31" title="MWL News">MWL News</a></li>
+</ul>
+</nav>
+<div class="art-sheet clearfix">
+            <div class="art-layout-wrapper clearfix">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1 clearfix">  <div class="region region-vnavigation-left">
+    <div class="block block-menu" id="block-menu-menu-content-cat"><div class="art-vmenublock clearfix">
+        <div class="art-vmenublockheader"><h3 class="t">Site Contents</h3>
+</div>
+        <div class="art-vmenublockcontent"><ul class="art-vmenu">
+<li class="first leaf"><a href="http://www.themwl.org/Ipadindex.html" title="Main Home page www.themwl.org">Home</a></li>
+<li class="leaf"><a href="/taxonomy/term/19" title="About MWL">About MWL</a></li>
+<li class="leaf"><a href="/taxonomy/term/28" title="MWL's Institutions">MWL's Institutions</a></li>
+<li class="leaf"><a href="/taxonomy/term/36" title="External Offices">External Offices</a></li>
+<li class="leaf"><a href="/taxonomy/term/39" title="External Centers">External Centers</a></li>
+<li class="collapsed"><a href="/taxonomy/term/20" title="conferences on dialogue">Dialogue Conferences</a></li>
+<li class="leaf"><a href="/taxonomy/term/4" title="Department of Muslim Minorities">Department of Muslim Minorities</a></li>
+<li class="leaf"><a href="/taxonomy/term/7" title="Selected Articles">Articles </a></li>
+<li class="last leaf active-trail active"><a href="/contact" title="Phone number, emails and address" class="active-trail active">Contact us</a></li>
+</ul>
+
+</div>
+</div></div>
+<div class="block block-block" id="block-block-3"><div class="art-vmenublock clearfix">
+        <div class="art-vmenublockheader"><h3 class="t">Invitation to Researchers</h3>
+</div>
+        <div class="art-vmenublockcontent"><p></p><a href="http://en.themwl.org/content/invitation-researchers-islamic-studies" target="_self"><img alt="Invitation to Researchers in Islamic studies" height="134" src="http://en.themwl.org/sites/default/files/images/InvitationEN.gif" width="241" /></a>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-8"><div class="art-vmenublock clearfix">
+        
+        <div class="art-vmenublockcontent"><div>
+<table align="left" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://en.themwl.org" target="_blank"><img src="http://www.themwl.org/images/english-icon.png" /></a></td>
+<td><a href="https://plus.google.com" target="_blank"><img src="http://www.themwl.org/images/google-plus.jpg" /></a></td>
+<td><a href="https://twitter.com/MuslimWorldLeag" target="_blank"><img src="http://www.themwl.org/images/twittericon.jpg" /></a></td>
+<td><a href="https://www.facebook.com/pages/Muslim-World-League/366011250178842" target="_blank"><img src="http://www.themwl.org/images/facebook_icon.jpg" /></a></td>
+<td><a href="http://www.youtube.com/mwl50years" target="_blank"><img src="http://www.themwl.org/images/youtube_icon.jpg" /></a></td>
+<td><a href="http://www.themwl.org/home.aspx" target="_blank"><img src="http://www.themwl.org/images/Saudi-Arabia-Flag.png" /></a></td>
+</tr></tbody></table></div>
+
+</div>
+</div></div>
+  </div>
+  <div class="region region-sidebar-left">
+    <div class="block block-search" id="block-search-form">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><form class="art-search" action="/contact?mag=1" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="" for="edit-search-block-form--2"> Search  </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input class="art-search-button form-submit art-button" type="submit" id="edit-submit--2" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-0HXurNw84AXr8Hmz7-kADRiGfYsQFf_jq5-jvoZ_Afk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div></div>
+<div class="block block-menu" id="block-menu-menu-mwl-sites">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  MWL Web Sites</h3>
+</div>        <div class="art-blockcontent"><ul class="menu"><li class="first leaf"><a href="http://themwl.org/home.aspx" title="Muslim World League Main Arabic Web site">MWL Arabic Site</a></li>
+<li class="leaf"><a href="http://www.muslimworldleague.com/" title=" web site of Makkah conference in its 13th year">Makkah Conferences</a></li>
+<li class="leaf"><a href="http://www.world-dialogue.org/" title="all conferences held in dialogue">Dialogue Conferences</a></li>
+<li class="collapsed"><a href="http://ar.themwl.org/" title="">Islamic Fiqh Council</a></li>
+<li class="leaf"><a href="http://www.themwl.org/conf" title="Web site for Muslim World Conference - Issues and Solutions">Muslim World Conference</a></li>
+<li class="leaf"><a href="http://www.itimams.net" title="Institute for training Imams Spiritual Leaders and Preachers of Muslim World League">Institute for Training Preachers</a></li>
+<li class="last leaf"><a href="http://50years.themwl.org" title="Muslim World league in last 50 years - achievements and Future  ">MWL in 50 Years</a></li>
+</ul></div>
+</div></div>
+<div class="block block-block" id="block-block-5">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><p><a href="http://en.themwl.org/WML_Institutions" target="_self"><img alt="MWL sub-oganizations" height="53" src="http://www.themwl.org/images/UserControls/Right/Bodies_Ani_En.gif" width="209" /></a></p></div>
+</div></div>
+  </div>
+</div>                        <div class="art-layout-cell art-content clearfix">
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2 class="element-invisible art-postheader">You are here</h2><div class="breadcrumb art-postcontent"><a href="./index.html">Home</a></div></div>
+                                
+                                
+</article>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2>Contact</h2>    <div class="region region-content">
+      <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<form class="user-info-from-cookie contact-form" action="/contact?mag=1" method="post" id="contact-site-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label class="" for="edit-name"> Your name <span class="form-required" title="This field is required.">*</span> </label>
+ <input type="text" id="edit-name" name="name" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label class="" for="edit-mail"> Your e-mail address <span class="form-required" title="This field is required.">*</span> </label>
+ <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-subject">
+  <label class="" for="edit-subject"> Subject <span class="form-required" title="This field is required.">*</span> </label>
+ <input type="text" id="edit-subject" name="subject" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<div class="form-item form-type-select form-item-cid">
+  <label class="" for="edit-cid"> Category <span class="form-required" title="This field is required.">*</span> </label>
+ <select id="edit-cid" name="cid" class="form-select required"><option value="5">Arabic Magazine</option><option value="9">Communications</option><option value="4">Conference Department</option><option value="8">dawatulhaq Books</option><option value="6">English Journal</option><option value="10">Feedback &amp; Suggestions</option><option value="7">Muslim World Newspaper</option><option value="2">Research Department</option><option value="3">Site Administrator</option><option value="1" selected="selected">Webmaster</option><option value="11">Secretary General Office</option></select>
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label class="" for="edit-message"> Message <span class="form-required" title="This field is required.">*</span> </label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-message" name="message" cols="60" rows="5" class="form-textarea required"></textarea></div>
+</div>
+<input type="hidden" name="form_build_id" value="form-PcEOO37X0qdia6zvfzNSpcFRnHtRIcIFrrxHDxLTQY8" />
+<input type="hidden" name="form_id" value="contact_site_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Send message" class="form-submit art-button" /></div></div></form></div>
+</div>
+  </div>
+  </div>
+</div>
+                                
+                                
+</article>
+
+</div>
+                    </div>
+                </div>
+            </div><footer class="art-footer clearfix">  <div class="region region-footer-message">
+    <div class="block block-block" id="block-block-14">
+
+                <p></p>
+<h4><strong><a href="http://en.themwl.org/">Home</a> | <a href="http://en.themwl.org/taxonomy/term/19">About MWL</a> | <a href="http://en.themwl.org/category/conferences/mwl-news">News</a> | <a href="http://en.themwl.org/taxonomy/term/22">Conferences</a> | <a href="http://en.themwl.org/World-dialogue-conference-video-list">Video</a> | <a href="http://en.themwl.org/International_Islamic_Conference_for_Dialogue_Gallery">Photo Gallery</a> | <a href="http://en.themwl.org/taxonomy/term/1">Publications</a> | <a href="http://en.themwl.org/category/mwl-glance/resolutions-5rth-session">Fatwa</a> | <a href="http://en.themwl.org/WML_Institutions">MWL Institutions</a> | <a href="http://en.themwl.org/MWL-external-offices">External Offices</a></strong></h4>
+<h4>Muslim World League © 2004. All Rights Reserved. <a href="http://www.themwl.org">www.themwl.org</a> | Contact us: <a href="mailto:info@themwl.org">info@themwl.org</a> | <a href="http://en.themwl.org/content/site-policy">Site Policy</a></h4>
+</div>
+  </div>
+</footer>
+
+    </div>
+</div>
+
+
+  </body>
+</html>

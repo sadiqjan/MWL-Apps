@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="About MWL" />
+<link rel="shortcut icon" href="./sites/all/themes/MWLtheme19/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/taxonomy/term/19" />
+<link rel="canonical" href="/taxonomy/term/19" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="RSS - About MWL" href="http://sites.themwl.org/taxonomy/term/19/feed" />
+  <title>About MWL | Muslim World League</title>
+  <link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_gArAUcbPOGS20Rj3CC1Ph_2J692LtLqNviaNUAmk_Wg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_z9qOmnjJd02Jbfr5R4HFiklPRXbrkCVHwI0dJxcKQDs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_R9wAxeeI0B-FYZGOYq-JFcZfeEDbjtfqEDGErNuvKvU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="./sites/default/files/css/css_XsFqxeysvgJP1MzULnYScUz5TnnVKU54D6F1UvMOFWo.css" media="all" />
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="./sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="./sites/default/files/js/js_2Rmso7qqVUdliODJ55E4FGvySnepdit7rocIC-z1P8g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"MWLtheme19", "theme_token":"tJShq0ZepWrzwRcFy3EwuC5wnIwRKOkWlyVUpypGR0o", "js":{"http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.10.2.min.js":1, "0":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fscript.js":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fscript.responsive.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Faggregator\u002Faggregator.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "modules\u002Ftaxonomy\u002Ftaxonomy.css":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fstyle.css":1, "sites\u002Fall\u002Fthemes\u002FMWLtheme19\u002Fstyle.responsive.css":1}}});
+//--><!]]>
+</script>
+  <!-- Created by Artisteer v4.0.0.58876 -->
+
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]><link rel="stylesheet" href="/sites/all/themes/MWLtheme19/style.ie7.css" media="screen" /><![endif]-->
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-19" >
+    
+<div id="art-main">
+<header class="art-header clearfix">
+
+    <div class="art-shapes">
+<h1 class="art-headline" data-left="88.25%"><a href="/" title = "Muslim World League">Muslim World League</a></h1>
+<h2 class="art-slogan" data-left="81.56%">Serving Islam and Muslims</h2>
+
+
+            </div>
+
+                
+                    
+</header>
+<nav class="art-nav clearfix">
+     
+    <ul class="art-hmenu">
+<li class="first collapsed"><a href="./index.html" title="">Home</a></li>
+<li class="expanded active-trail active">
+<a href="/taxonomy/term/19" title="all about Muslim World League" class="active-trail active">About MWL</a><ul class=" active">
+<li class="first leaf"><a href="./node/765.html" title="Headquarters">Headquarters</a></li>
+<li class="leaf"><a href="/WML_Institutions" title="Institutions under the umbrella of the Muslim World League">MWL's Institutions</a></li>
+<li class="leaf"><a href="http://en.themwl.org/content/mwl-web-sites-0" title="Web sites belong to MWL ">MWL web sites</a></li>
+<li class="leaf"><a href="/MWL-external-offices" title="Offices Abroad">External Offices</a></li>
+<li class="leaf"><a href="/taxonomy/term/39" title="External Centers MWL centers around world">External Centers</a></li>
+<li class="last leaf"><a href="./node/839.html" title="Educational Institutes of Muslim World League">Educational Institutes</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="/taxonomy/term/20" title="GENEVA Dialogue Conference">Conferences</a></li>
+<li class="leaf"><a href="/taxonomy/term/2" title="Press Release">Press Release</a></li>
+<li class="last leaf"><a href="/taxonomy/term/31" title="MWL News">MWL News</a></li>
+</ul>
+</nav>
+<div class="art-sheet clearfix">
+            <div class="art-layout-wrapper clearfix">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1 clearfix">  <div class="region region-vnavigation-left">
+    <div class="block block-menu" id="block-menu-menu-content-cat"><div class="art-vmenublock clearfix">
+        <div class="art-vmenublockheader"><h3 class="t">Site Contents</h3>
+</div>
+        <div class="art-vmenublockcontent"><ul class="art-vmenu">
+<li class="first leaf"><a href="http://www.themwl.org/Ipadindex.html" title="Main Home page www.themwl.org">Home</a></li>
+<li class="leaf active-trail active"><a href="/taxonomy/term/19" title="About MWL" class="active-trail active">About MWL</a></li>
+<li class="leaf"><a href="/taxonomy/term/28" title="MWL's Institutions">MWL's Institutions</a></li>
+<li class="leaf"><a href="/taxonomy/term/36" title="External Offices">External Offices</a></li>
+<li class="leaf"><a href="/taxonomy/term/39" title="External Centers">External Centers</a></li>
+<li class="collapsed"><a href="/taxonomy/term/20" title="conferences on dialogue">Dialogue Conferences</a></li>
+<li class="leaf"><a href="/taxonomy/term/4" title="Department of Muslim Minorities">Department of Muslim Minorities</a></li>
+<li class="leaf"><a href="/taxonomy/term/7" title="Selected Articles">Articles </a></li>
+<li class="last leaf"><a href="/contact" title="Phone number, emails and address">Contact us</a></li>
+</ul>
+
+</div>
+</div></div>
+<div class="block block-block" id="block-block-3"><div class="art-vmenublock clearfix">
+        <div class="art-vmenublockheader"><h3 class="t">Invitation to Researchers</h3>
+</div>
+        <div class="art-vmenublockcontent"><p></p><a href="http://en.themwl.org/content/invitation-researchers-islamic-studies" target="_self"><img alt="Invitation to Researchers in Islamic studies" height="134" src="http://en.themwl.org/sites/default/files/images/InvitationEN.gif" width="241" /></a>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-8"><div class="art-vmenublock clearfix">
+        
+        <div class="art-vmenublockcontent"><div>
+<table align="left" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://en.themwl.org" target="_blank"><img src="http://www.themwl.org/images/english-icon.png" /></a></td>
+<td><a href="https://plus.google.com" target="_blank"><img src="http://www.themwl.org/images/google-plus.jpg" /></a></td>
+<td><a href="https://twitter.com/MuslimWorldLeag" target="_blank"><img src="http://www.themwl.org/images/twittericon.jpg" /></a></td>
+<td><a href="https://www.facebook.com/pages/Muslim-World-League/366011250178842" target="_blank"><img src="http://www.themwl.org/images/facebook_icon.jpg" /></a></td>
+<td><a href="http://www.youtube.com/mwl50years" target="_blank"><img src="http://www.themwl.org/images/youtube_icon.jpg" /></a></td>
+<td><a href="http://www.themwl.org/home.aspx" target="_blank"><img src="http://www.themwl.org/images/Saudi-Arabia-Flag.png" /></a></td>
+</tr></tbody></table></div>
+
+</div>
+</div></div>
+  </div>
+  <div class="region region-sidebar-left">
+    <div class="block block-search" id="block-search-form">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><form class="art-search" action="/taxonomy/term/19?mag=1" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="" for="edit-search-block-form--2"> Search  </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="art-search-button form-submit art-button" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-cyP1J_Eif0o-uRucu9v0JYDLUEQJS1wE_AcE44yaDU8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div></div>
+<div class="block block-menu" id="block-menu-menu-mwl-sites">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  MWL Web Sites</h3>
+</div>        <div class="art-blockcontent"><ul class="menu"><li class="first leaf"><a href="http://themwl.org/home.aspx" title="Muslim World League Main Arabic Web site">MWL Arabic Site</a></li>
+<li class="leaf"><a href="http://www.muslimworldleague.com/" title=" web site of Makkah conference in its 13th year">Makkah Conferences</a></li>
+<li class="leaf"><a href="http://www.world-dialogue.org/" title="all conferences held in dialogue">Dialogue Conferences</a></li>
+<li class="collapsed"><a href="http://ar.themwl.org/" title="">Islamic Fiqh Council</a></li>
+<li class="leaf"><a href="http://www.themwl.org/conf" title="Web site for Muslim World Conference - Issues and Solutions">Muslim World Conference</a></li>
+<li class="leaf"><a href="http://www.itimams.net" title="Institute for training Imams Spiritual Leaders and Preachers of Muslim World League">Institute for Training Preachers</a></li>
+<li class="last leaf"><a href="http://50years.themwl.org" title="Muslim World league in last 50 years - achievements and Future  ">MWL in 50 Years</a></li>
+</ul></div>
+</div></div>
+<div class="block block-block" id="block-block-5">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><p><a href="http://en.themwl.org/WML_Institutions" target="_self"><img alt="MWL sub-oganizations" height="53" src="http://www.themwl.org/images/UserControls/Right/Bodies_Ani_En.gif" width="209" /></a></p></div>
+</div></div>
+  </div>
+</div>                        <div class="art-layout-cell art-content clearfix">
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2 class="element-invisible art-postheader">You are here</h2><div class="breadcrumb art-postcontent"><a href="/">Home</a></div></div>
+                                
+                                
+</article>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2>About MWL</h2>      </div>
+    </article>
+    <div class="region region-content">
+      <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="term-listing-heading"><div id="taxonomy-term-19" class="taxonomy-term vocabulary-vocabulary-1">
+
+  
+  <div class="content">
+      </div>
+
+</div>
+</div><div id="node-1162" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/1162.html" title="Brief CV of Secretary General of Muslim World League ">Brief CV of Secretary General of Muslim World League </a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><u>Bio-Data</u></strong></p>
+<p>Name:  Abdullah Bin Abdelmohsin Al-Turki, PhD.</p>
+<p>Date of birth:  1359 Hijra -1940 AD</p>
+<p><strong><u>Education</u></strong></p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/1162.html" rel="tag" title="Brief CV of Secretary General of Muslim World League ">Read more<span class="element-invisible"> about Brief CV of Secretary General of Muslim World League </span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>80 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-904" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/904.html" title="Affiliate Organizations of MWL">Affiliate Organizations of MWL</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>International Organization For Muslim Scholars (IOMS) </strong></p>
+<p>It was established in complience with the resolution of the Fourth General Islamic Confrence held in Makkah Al-Mukarramah 1423H so as to unite and clarify the attitudes of Muslim scholars and intellectuals on different causes as well as address newly emerging and unprecedented incidents faced by Muslims.</p>
+<p>(I.O.M.S.) seeks to achieve its objectives through the following:</p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/904.html" rel="tag" title="Affiliate Organizations of MWL">Read more<span class="element-invisible"> about Affiliate Organizations of MWL</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>205 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-903" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/903.html" title="MWL Councils ">MWL Councils </a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>General Islamic Conference (G.1.C.):</strong></p>
+<p>This Council  expresses the feelings of Muslim peoples around the world, as well as their aspirations towards achieving their higher goals. It is the highest policy making body of the Muslim World League and made up of senior Ulema (Muslim scholars) and preachers who frequently meet to discuss major issues concerning Islam and Muslims, and help solve their problems and achieve their benevolent aspirations.  G.I.C. has so far met for serval times as follows:</p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/903.html" rel="tag" title="MWL Councils ">Read more<span class="element-invisible"> about MWL Councils </span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>184 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-901" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/901.html" title="Objectives &amp; Methods of MWL">Objectives &amp; Methods of MWL</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><u>Objectives:</u></strong></p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/901.html" rel="tag" title="Objectives &amp; Methods of MWL">Read more<span class="element-invisible"> about Objectives &amp; Methods of MWL</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>190 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-839" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/839.html" title="MWL Educational Institutes">MWL Educational Institutes</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Institute for Training Imams and Preachers</p>
+<p>P. O. Box: 538</p>
+<p>Makkah - Saudi Arabia</p>
+<p><strong>Tel: <span class="skype_pnh_container" dir="ltr" tabindex="-1"><span class="skype_pnh_highlighting_inactive_common" dir="ltr"><img class="skype_pnh_logo_img" src="//skype_ff_extension/skin/numbers_button_skype_logo.png" /><span class="skype_pnh_text_span">5431648-02-966</span></span> </span> </strong></p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/839.html" rel="tag" title="MWL Educational Institutes">Read more<span class="element-invisible"> about MWL Educational Institutes</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>729 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-765" class="node story">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/765.html" title="Headquarters">Headquarters</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The Secretariat General of The Muslim World League (Headquarters) is based in Makkah Al Mukarramah, Kingdom of Saudi Arabia and the League has the right to establish branches, organizations and affiliate centers and offices inside and outside the seat country, Kingdom of Suadi Arabia.</p>
+<p>The headquarters Building consists of:</p>
+<p>    A reception hall.<br />
+    A VIP lounge.<br />
+    A spacious conference hall.<br />
+    A assembly room.<br />
+    A Round-table Meeting room.</p>
+<p> </p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/765.html" rel="tag" title="Headquarters">Read more<span class="element-invisible"> about Headquarters</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>824 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-762" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/762.html" title="MWL Web Sites">MWL Web Sites</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Musllim World League Web Sites:</p>
+<p><a href="http://www.themwl.org">www.themwl.org</a></p>
+<p><a href="http://en.themwl.org">http://en.themwl.org</a></p>
+<p><a href="http://ar.themwl.org">http://ar.themwl.org</a></p>
+<p><a href="http://www.themwl.org/conf">http://www.themwl.org/conf</a> </p>
+
+<p><a href="http://www.muslimworldleague.com/">http://www.muslimworldleague.com/</a></p>
+<p><a href="http://www.world-dialogue.org">http://www.world-dialogue.org</a></p>
+<p><a href="http://www.itimams.net/">http://www.itimams.net/</a></p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/762.html" rel="tag" title="MWL Web Sites">Read more<span class="element-invisible"> about MWL Web Sites</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>671 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-540" class="node page">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/540.html" title="Institute for preparing preachers and Imams">Institute for preparing preachers and Imams</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Institute for preparing preachers and Imams is one the institutes of Muslim World League located in Makkah</p>
+<p><a href="http://www.themwl.org/Bodies/Education/Institutes/default.aspx?ct=1&amp;s=1&amp;l=AR">all about the institute </a></p>
+<ul><li>Conditions for admission</li>
+<li>Application Form to get admisstion</li>
+<li>Scholarship Form</li>
+</ul><p><a href="http://www.themwl.org/Bodies/Education/Scholarships/default.aspx?ct=1&amp;s=3&amp;l=AR">Click Here to get those informations</a></p>
+<p><a href="http://www.itimams.net">www.itimams.net</a></p>
+<p> </p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/540.html" rel="tag" title="Institute for preparing preachers and Imams">Read more<span class="element-invisible"> about Institute for preparing preachers and Imams</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>275 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-104" class="node story">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/104.html" title="The Constitution of the Muslim World League">The Constitution of the Muslim World League</a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Muslim World League<br />
+Secretary General<br />
+Makkah<br />
+The Constitution of the Muslim World League<br />
+Issued by the 37th Session of the Constituent Council convened in Makkah Al-Mukarramah Between 27-28 Muharram 1423H , corresponding to 10-11 April 2002<br />
+In the Name of God, the Beneficent, the Merciful</p>
+<p><u>Chapter One</u></p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/104.html" rel="tag" title="The Constitution of the Muslim World League">Read more<span class="element-invisible"> about The Constitution of the Muslim World League</span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>302 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<div id="node-46" class="node page promote">
+	<article class="art-post art-article">
+                                <div class="art-postmetadataheader">
+                                        <h2 class="art-postheader"><a href="./node/46.html" title="World Supreme Council for Mosques ">World Supreme Council for Mosques </a></h2>
+                                    </div>
+                                                
+                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>World Supreme Council for Mosques</p>
+<p>The WSCM has an independent legal personality. It aims at reactivating the mission of the Mosque as a vital focal point of the religious as well as the temporal life of the Muslim.</p>
+<p>Ultimately, the WSCM aims at restoring the Mosque's role to what it was during the early days of Islam. It also strives to protect Mosques and Islamic trusts against assault, and to maintain the sanctity and purity of the Mosque.</p></div></div></div>  </div>
+</div>
+                                <div class="art-postmetadatafooter">
+                                        <div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon"><a href="./node/46.html" rel="tag" title="World Supreme Council for Mosques ">Read more<span class="element-invisible"> about World Supreme Council for Mosques </span></a></span>&nbsp;|&nbsp;<span class="art-postcategoryicon"><span>397 reads</span></span>&nbsp;|&nbsp;<span class="art-posttagicon"><div class="art-tags"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">MWL at a glance:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="active">About MWL</a></div></div></div></div></span></div>
+                                    </div>
+                                
+</article>	</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/taxonomy/term/19?page=1&amp;mag=1&amp;mag_q=taxonomy/term/19">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/taxonomy/term/19?page=1&amp;mag=1&amp;mag_q=taxonomy/term/19">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/taxonomy/term/19?page=1&amp;mag=1&amp;mag_q=taxonomy/term/19">last »</a></li>
+</ul></div></div>
+</div>
+  </div>
+  </div>
+
+</div>
+                    </div>
+                </div>
+            </div><footer class="art-footer clearfix">  <div class="region region-footer-message">
+    <div class="block block-block" id="block-block-14">
+
+                <p></p>
+<h4><strong><a href="http://en.themwl.org/">Home</a> | <a href="http://en.themwl.org/taxonomy/term/19">About MWL</a> | <a href="http://en.themwl.org/category/conferences/mwl-news">News</a> | <a href="http://en.themwl.org/taxonomy/term/22">Conferences</a> | <a href="http://en.themwl.org/World-dialogue-conference-video-list">Video</a> | <a href="http://en.themwl.org/International_Islamic_Conference_for_Dialogue_Gallery">Photo Gallery</a> | <a href="http://en.themwl.org/taxonomy/term/1">Publications</a> | <a href="http://en.themwl.org/category/mwl-glance/resolutions-5rth-session">Fatwa</a> | <a href="http://en.themwl.org/WML_Institutions">MWL Institutions</a> | <a href="http://en.themwl.org/MWL-external-offices">External Offices</a></strong></h4>
+<h4>Muslim World League © 2004. All Rights Reserved. <a href="http://www.themwl.org">www.themwl.org</a> | Contact us: <a href="mailto:info@themwl.org">info@themwl.org</a> | <a href="http://en.themwl.org/content/site-policy">Site Policy</a></h4>
+</div>
+  </div>
+</footer>
+
+    </div>
+</div>
+
+
+  </body>
+</html>
